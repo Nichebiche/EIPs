@@ -3,7 +3,7 @@ eip: <to be assigned>
 title: Storage of SECP256k1 public keys in ENS
 author: Nick Johnson <nick@ethereum.org>
 discussions-to: https://github.com/ethereum/EIPs/issues/620
-status: Draft
+status: Abandoned
 type: Standards Track
 category: ERC
 created: 2017-05-01
